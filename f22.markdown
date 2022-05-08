@@ -12,7 +12,7 @@ permalink: /f22
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/7861/discussion/) and [discord](https://discord.gg/3yFqmRjZDA).
 - <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b></span> -->
 
-For more information about the the course, please join <a href="https://groups.google.com/g/berkeley-web3-entrepreneurship">berkeley-web3-entrepreneurship@googlegroups.com</a>. And stay tuned!
+For more information about the the course, please join <a target="_blank" href="https://groups.google.com/g/berkeley-web3-entrepreneurship">berkeley-web3-entrepreneurship@googlegroups.com</a>. And stay tuned!
 
 ## Instructors
 
