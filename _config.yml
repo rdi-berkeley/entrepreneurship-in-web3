@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: "CS294-224/CS194-224 Entrepreneurship In Web3"
+description: Fall 2022
+show_downloads: false
+github:
+  is_project_page: false
+plugins:
+  - jekyll-redirect-from

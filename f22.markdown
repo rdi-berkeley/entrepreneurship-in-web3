@@ -1,0 +1,98 @@
+---
+layout: default
+title: "Entrepreneurship In Web3"
+permalink: /f22
+---
+
+<!-- # Decentralized Finance -->
+
+# CS294-224/CS194-224 Entrepreneurship In Web3
+
+- [Zoom link](https://berkeley.zoom.us/j/94039559132) for the class (password: 267548): [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94039559132)
+- For general course content related questions, please join our [edstem](https://edstem.org/us/courses/7861/discussion/) and [discord](https://discord.gg/3yFqmRjZDA).
+- <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b></span>
+
+## Instructors
+
+<table style="table-layout: fixed; font-size: 88%; align: middle;">
+  <thead>
+    <tr>
+      <!-- <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://conferences.law.stanford.edu/cyberday/wp-content/uploads/sites/10/2016/10/Bonah_Dan_cropped.jpg" alt="Dan Boneh"></th>
+      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://arthurgervais.com/images/Arthur_bio_photo.jpg" alt="Arthur Gervais"></th>
+      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=66044&s=300&type=portrait" alt="Andrew Miller"></th> -->
+      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="/assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <!-- <td><a href="https://crypto.stanford.edu/~dabo/">Dan Boneh</a></td>
+      <td><a href="https://arthurgervais.com/">Arthur Gervais</a></td>
+      <td><a href="http://soc1024.ece.illinois.edu/">Andrew Miller</a></td> -->
+      <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
+    </tr>
+    <tr>
+      <!-- <td>Stanford</td>
+      <td>Imperial College London</td>
+      <td>UIUC</td> -->
+      <td>UC Berkeley</td>
+    </tr>
+  </tbody>
+</table>
+
+Co-instructors to be announced.
+
+## TAs
+
+Xiaoyuan Liu
+
+## Class Time
+Synchronous lecture: 4:00 PM-5:59 PM PT Tue, starting Aug 24. 
+
+<!-- ## Office Hour
+All times are in PST. There will be no office hours until the week of September 6th.
+
+| Dawn Song (Professor) | 05:00pm-05:30pm Wed | [Zoom link]() (ID: , Passcode: ) |
+| Xiaoyuan Liu (TA/GSI) | 12:30pm-01:30pm Thu | [Zoom link]() | -->
+
+## Enrollment and Participation
+
+For graduate students, please register for CS294-224; for undergraduate students, please register for CS194-224. 
+<!-- Please join our [edstem](). -->
+
+This is a variable unit course. The requirements for each number of units are listed below.
+
+- **1 unit**: attend lectures (graded on participation only)
+- **2 units**: attend lectures + complete a class project with a product definition and business plan
+- **3 units**: attend lectures + complete a class project that includes product definition, business plan, product mockup, and customer conversations
+- **4 units**: attend lectures + complete a class project that includes product definition, business plan, customer conversations, and a prototype product demo
+
+
+<!-- ## Course syllabus
+
+<iframe id="syllabus" src="/f22_syllabus" width="100%" height="100" frameborder=0> </iframe>
+
+<script>
+  function setIframeHeight(iframe) {
+    if (iframe) {
+        var iframeWin = iframe.contentWindow || iframe.contentDocument.parentWindow;
+        if (iframeWin.document.body) {
+            iframe.height = iframeWin.document.documentElement.scrollHeight || iframeWin.document.body.scrollHeight;
+        }
+    }
+  };
+
+  window.onload = function() {
+      setIframeHeight(document.getElementById('syllabus'));
+      setIframeHeight(document.getElementById('fireside'));
+  };
+</script> -->
+
+## Course Description
+
+With the fast-evolving decentralized blockchain technology, web3 has been attracting significantly-growing attention in recent years. It provides better incentive models and control to users with powerful abstractions like smart contracts, NFTs, and DAOs that work on the distributed ledger. Replacing centralized platforms in web2 with open protocols and autonomous governance, web3 encourages community participation and has the potential to be the future of the Internet.
+
+Web3 not only inspires cutting-edge research topics but also attracts great attention from capital markets. According to metrics reported by Forbes, “VCs deployed $30B+ globally in 2021 into crypto startups. ” and “There are 65+ crypto unicorns, with over 40 of them created in 2021. There were close to 50 crypto startups that raised over $100M in 2021.” With innovative technology breakthroughs, comes great opportunities for entrepreneurship.
+
+Our goal in this course is to help students understand the new space of Web3 and learn about venture innovation in Web3. Through the exposure to successful entrepreneurship experience as well as remaining open challenges, we hope for our students to quickly understand the challenges and opportunities of building a startup in web3 and get hands-on experiences through the course. 
+
+More syllabus information will be announced later.
