@@ -12,8 +12,8 @@ permalink: /f22
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/7861/discussion/) and [discord](https://discord.gg/3yFqmRjZDA).
 - <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b></span> -->
 
-- If you want to enroll, please fill out <a target="_blank" href="https://forms.gle/nQSUG7anNA3a9GVQ6">this form</a>.
-- For more information about the the course, please also join <a target="_blank" href="https://groups.google.com/g/berkeley-web3-entrepreneurship">berkeley-web3-entrepreneurship@googlegroups.com</a>. And stay tuned!
+- If you need a permission code to join the course, please fill out <a target="_blank" href="https://forms.gle/nQSUG7anNA3a9GVQ6">this form</a> and we'll get back to you as soon as possible.
+- For more information about the the course, please also join <a target="_blank" href="https://groups.google.com/g/berkeley-web3-entrepreneurship-f22">berkeley-web3-entrepreneurship-f22@googlegroups.com</a>. And stay tuned!
 
 ## Instructors
 
@@ -35,6 +35,10 @@ permalink: /f22
       <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
       <td><a href="#">Haseeb Qureshi</a></td>
     </tr>
+    <tr>
+      <td>Professor, UC Berkeley</td>
+      <td>Managing Partner, Dragonfly</td>
+    </tr>
   </tbody>
 </table>
 
@@ -43,7 +47,7 @@ permalink: /f22
 Xiaoyuan Liu
 
 ## Class Time
-Synchronous lecture: 4:00 PM-5:59 PM PT Tue, starting Aug 23. 
+Synchronous lecture: 4:00 PM-5:59 PM PT Tue, starting Aug 30. 
 
 <!-- ## Office Hour
 All times are in PST. There will be no office hours until the week of September 6th.
