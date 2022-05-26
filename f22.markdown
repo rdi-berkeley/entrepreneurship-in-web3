@@ -109,8 +109,6 @@ This is a variable unit course. The requirements for each number of units are li
 
 ## Timeline
 
-| Assignment                | Deadline |
-|---------------------------|----------|
 | Group formation           | Sep 27   |
 | Project proposal          | Oct 11   |
 | Project milestone         | Nov 8    |
