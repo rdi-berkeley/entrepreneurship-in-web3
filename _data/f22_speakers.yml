@@ -1,0 +1,4 @@
+- name: Example Name
+  picture: example.jpeg
+  bio:  |
+    Example multiline bio
