@@ -102,7 +102,7 @@ This is a variable unit course. The requirements for each number of units are li
 | Oct 18<br>Lec 8  | Pitching workshop                                                         |
 | Oct 25<br>Lec 9  | Product                                                                   |
 | Nov 1<br>Lec 10  | CESC (no lecture)                                                         |
-| Nov 8<br>Lec 11  | Community & Marketing/Growth                                              |
+| Nov 8<br>Lec 11  | Community & Growth                                                        |
 | Nov 15<br>Lec 12 | Legal / Regulatory                                                        |
 | Nov 22<br>Lec 13 | Incentive Design & Tokenomics                                             |
 | Nov 29<br>Lec 14 | Final project presentation \| Demo day \| Words of wisdom; Closing        |
