@@ -115,7 +115,7 @@ This is a variable unit course. The requirements for each number of units are li
 
 ## Meet the Speakers
 
-<iframe id="speakers" src="/f22_speakers" width="100%" height="1800" frameborder=0> </iframe>
+<iframe id="speakers" src="./f22_speakers" width="100%" height="1800" frameborder=0> </iframe>
 
 <script>
   function setIframeHeight(iframe) {
