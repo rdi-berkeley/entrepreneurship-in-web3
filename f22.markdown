@@ -61,7 +61,7 @@ This is a variable unit course. The requirements for each number of units are li
 - **3 units**: attend lectures + complete a class project that includes product definition, a pitch deck, product mockup, and customer conversations
 - **4 units**: attend lectures + complete a class project that includes product definition, a pitch deck, customer conversations, and a prototype product demo
 
-## Syllabus (tentative)
+## Syllabus
 
 | Date             | Topic                                                                     | Speaker                    |
 | ---------------- | ------------------------------------------------------------------------- | -------------------------- |
