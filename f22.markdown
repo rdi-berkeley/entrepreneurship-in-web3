@@ -20,20 +20,14 @@ permalink: /f22
 <table style="table-layout: fixed; font-size: 88%; align: middle;">
   <thead>
     <tr>
-      <!-- <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://conferences.law.stanford.edu/cyberday/wp-content/uploads/sites/10/2016/10/Bonah_Dan_cropped.jpg" alt="Dan Boneh"></th>
-      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://arthurgervais.com/images/Arthur_bio_photo.jpg" alt="Arthur Gervais"></th>
-      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=66044&s=300&type=portrait" alt="Andrew Miller"></th> -->
       <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
       <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/haseeb.jpeg" alt="Haseeb Qureshi"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <!-- <td><a href="https://crypto.stanford.edu/~dabo/">Dan Boneh</a></td>
-      <td><a href="https://arthurgervais.com/">Arthur Gervais</a></td>
-      <td><a href="http://soc1024.ece.illinois.edu/">Andrew Miller</a></td> -->
       <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
-      <td><a href="#">Haseeb Qureshi</a></td>
+      <td><a href="#">Haseeb Qureshi</a>, Guest Instructor</td>
     </tr>
     <tr>
       <td>Professor, UC Berkeley</td>
@@ -92,7 +86,7 @@ This is a variable unit course. The requirements for each number of units are li
 | Project milestone         | Nov 8    |
 | Final presentation / Demo | Nov 29   |
 
-## Meet the Speakers
+## Meet the Guest Speakers
 
 <iframe id="speakers" src="./f22_speakers" width="100%" height="1800" frameborder=0> </iframe>
 
