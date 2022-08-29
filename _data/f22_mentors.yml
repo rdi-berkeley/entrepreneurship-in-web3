@@ -1,6 +1,6 @@
 - name: Kartik 
-  picture: TODO
-  bio: TODO
+  picture: Kartik.jpg
+  bio: Kartik is a partner at a_capital where he focuses on web3 investments. He has led and originated investments in over 80 crypto companies including Coinbase, MakerDAO, Aztec, Uniswap, Optimism, Anchorage, OpenSea, Bison Trails, and Near Protocol. A software developer by trade, he is also an active contributor to various open source projects and helped start ETHGlobal — the leading initiative to bring developers into web3. Kartik holds a degree in Astrophysics and Mathematics from the University of Waterloo.
 - name: Anand Iyer
   picture: Anand.jpg
   bio: |
@@ -11,4 +11,4 @@
   picture: Linda.png
   bio: |
     Linda Xie is the co-founder of a crypto fund Scalar Capital and co-producer of a documentary in production about Ethereum called Ethereum: The Infinite Garden. Linda was previously an early employee and product manager at Coinbase.
-
+- name: Teck
