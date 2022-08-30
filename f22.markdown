@@ -88,27 +88,11 @@ This is a variable unit course. The requirements for each number of units are li
 
 ## Meet the Guest Speakers
 
-<iframe id="speakers" src="./f22_speakers" width="100%" height="1800" frameborder=0> </iframe>
+<iframe id="speakers" src="./f22_speakers" width="100%" height="1750" frameborder=0> </iframe>
 
 ## Meet the Mentors
 
-<iframe id="mentors" src="./f22_mentors" width="100%" height="1800" frameborder=0> </iframe>
-
-<script>
-  function setIframeHeight(iframe) {
-    if (iframe) {
-        var iframeWin = iframe.contentWindow || iframe.contentDocument.parentWindow;
-        if (iframeWin.document.body) {
-            iframe.height = iframeWin.document.documentElement.scrollHeight || iframeWin.document.body.scrollHeight;
-        }
-    }
-  };
-
-  window.onload = function() {
-      setIframeHeight(document.getElementById('speakers'));
-      setIframeHeight(document.getElementById('mentors'));
-  };
-</script>
+<iframe id="mentors" src="./f22_mentors" width="100%" height="720" frameborder=0> </iframe>
 
 ## Course Description
 
