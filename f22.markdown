@@ -46,10 +46,9 @@ All times are in PST. There will be no office hours until the week of September 
 | Dawn Song (Professor) | 05:00pm-05:30pm Wed | [Zoom link]() (ID: , Passcode: ) |
 | Xiaoyuan Liu (TA/GSI) | 12:30pm-01:30pm Thu | [Zoom link]() | -->
 
-## Enrollment and Participation
+## Enrollment
 
-For graduate students, please register for CS294-224; for undergraduate students, please register for CS194-224. 
-<!-- Please join our [edstem](). -->
+For graduate students, please register for CS294-224; for undergraduate students, please register for CS194-224.
 
 This is a variable unit course. The requirements for each number of units are listed below.
 
@@ -76,12 +75,32 @@ This is a variable unit course. The requirements for each number of units are li
 | Nov 22<br>Lec 12 | Community & Growth                                                        | Stani Kulechov             |
 | Nov 29<br>Lec 13 | Final project presentation \| Demo day \| Words of wisdom; Closing        | Dawn Song & Haseeb Qureshi |
 
-## Timeline
+## Assignment Timeline
 
-| Group formation           | Sep 27   |
-| Project proposal          | Oct 11   |
-| Project milestone         | Nov 8    |
+| Assignment                | Deadline |
+| Group formation           | Sep 15   |
+| Project proposal          | Oct 5    |
+| Project milestone         | Oct 29   |
 | Final presentation / Demo | Nov 29   |
+
+## Grading
+
+The class has an attendance requirement. In addition, 2, 3, and 4-unit students will participate in a group project (4-5 students per group; other group size needs to petition for exception), getting hands-on experience in developing web3 entrepreneurship ideas and defining new web3 products. 
+
+|                                        | 1 unit | 2 units | 3 units                                                     | 4 units                                                             |
+|----------------------------------------|--------|---------|-------------------------------------------------------------|---------------------------------------------------------------------|
+| Participation                          | 100%   | 10%     | 10%                                                         | 10%                                                                 |
+| Project proposal                       |        | 20%     | 20%                                                         | 20%                                                                 |
+| Project milestone                      |        | 30%     | 25%                                                         | 25%                                                                 |
+| Final presentation / Demo / whitepaper |        | 40%     | 45% (including customer conversations and a product mockup) | 45% (including customer conversations and a prototype product demo) |
+
+### Participation
+
+The class will be in hybrid format. We expect in-person or online attendance and require each student to ask at least 4 questions to speakers in class over the course of the semester. If you have a time conflict with another class or another reason you cannot attend, please fill out [this form](https://forms.gle/12pqPUUnkDaMFE5g7) to request an exception.
+
+### Group Project 
+
+Students will be completing an open-ended web3 product design at the end of the semester. Students are welcome to choose their own topics, but we’ll also provide a list of topic suggestions that you can take inspiration from if you wish. Groups of less than 4 students require extra permission from the course staff. Students need to group with others taking the same number of units. 
 
 ## Meet the Guest Speakers
 
