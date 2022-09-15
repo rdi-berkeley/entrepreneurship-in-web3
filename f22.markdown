@@ -61,8 +61,8 @@ This is a variable unit course. The requirements for each number of units are li
 
 | Date             | Topic                                                                     | Speaker                    |
 | ---------------- | ------------------------------------------------------------------------- | -------------------------- |
-| Sep 6<br>Lec 1   | Orientation & Entrepreneurship 101                                        | Dawn Song & Haseeb Qureshi |
-| Sep 13<br>Lec 2  | Web3 landscape (I): L1/L2 / infrastructure, DeFi, CeFi, Service providers | Dan Robinson               |
+| Sep 6<br>Lec 1   | Orientation & Entrepreneurship 101 [[Video](https://www.youtube.com/watch?v=JnPaeIc9DAg)]         | Dawn Song & Haseeb Qureshi |
+| Sep 13<br>Lec 2  | Web3 landscape (I): L1/L2 / infrastructure, DeFi, CeFi, Service providers [[Video](https://www.youtube.com/watch?v=YWo2zM-0SDI)] | Dan Robinson               |
 | Sep 20<br>Lec 3  | Web3 landscape (II): NFTs, GameFi                                         | Yat Siu                    |
 | Sep 27<br>Lec 4  | web3 landscape (III): DAOs, Decentralized web & future applications       | Balaji Srinivasan          |
 | Oct 4<br>Lec 5   | How to find a good idea                                                   | Haseeb Qureshi             |
