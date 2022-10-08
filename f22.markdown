@@ -79,7 +79,7 @@ This is a variable unit course. The requirements for each number of units are li
 
 | Assignment                | Deadline |
 | Group formation           | Sep 15   |
-| Project proposal          | Oct 5    |
+| Project proposal          | Oct 9    |
 | Project milestone         | Oct 29   |
 | Final presentation / Demo | Nov 29   |
 
