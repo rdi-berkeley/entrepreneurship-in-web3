@@ -102,7 +102,7 @@ The class will be in hybrid format. We expect in-person or online attendance and
 **Students taking 1 unit** should also write an article (at least 2 pages) about the relevant topic covered in this course or your experience of the course posted online, and optionally tweet about the article. The article should be finished by Nov 28.
 For example, a blog article on:
 - Summarizing information and lessons learned from certain lectures
-- A postmortem on the learning experience
+- A note on the learning experience
 
 The quality of the article needs to be at least 6 marks and the criteria are shown below:
 - Understanding (2 marks): Displays breadth and/or depth of understanding of the topic
