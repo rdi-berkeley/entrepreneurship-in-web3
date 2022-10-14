@@ -81,6 +81,7 @@ This is a variable unit course. The requirements for each number of units are li
 | Group formation           | Sep 15   |
 | Project proposal          | Oct 9    |
 | Project milestone         | Oct 29   |
+| 1-Unit article            | Nov 28   |
 | Final presentation / Demo | Nov 29   |
 
 ## Grading
@@ -98,7 +99,7 @@ The class has an attendance requirement. In addition, 2, 3, and 4-unit students 
 
 The class will be in hybrid format. We expect in-person or online attendance and require each student to ask at least 4 questions to speakers in class over the course of the semester. If you have a time conflict with another class or another reason you cannot attend, please fill out [this form](https://forms.gle/12pqPUUnkDaMFE5g7) to request an exception.
 
-**Students taking 1 unit** should also write an article (at least 2 pages) about the relevant topic covered in this course or your experience of the course posted online, and optionally tweet about the article.
+**Students taking 1 unit** should also write an article (at least 2 pages) about the relevant topic covered in this course or your experience of the course posted online, and optionally tweet about the article. The article should be finished by Nov 28.
 For example, a blog article on:
 - Summarizing information and lessons learned from certain lectures
 - A postmortem on the learning experience
