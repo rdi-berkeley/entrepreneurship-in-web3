@@ -112,7 +112,7 @@ The quality of the article needs to be at least 6 marks and the criteria are sho
 
 ### CESC Participation
 
-For CESC (https://cesc.io/) week, there's no class. Students should attend CESC, and write a conference report covering at least two conference sessions **for their class participation point** for that week via [this form](https://forms.gle/qRfFvxKeX7UN2UU17). Students should also go to the Berkeley blockchain Xcelerator demo day (Nov 1 with CESC) and **include a demo day report in their conference report**. Up to 5% extra points will be given to students who write good reports and whose reports are included in a published overall conference report. 
+For CESC (https://cesc.io/) week, there's no class. All students should register and participate in CESC, and write a conference report covering at least two conference sessions **for their class participation point** for that week via [this form](https://forms.gle/qRfFvxKeX7UN2UU17). Students should also go to the Berkeley blockchain Xcelerator demo day (Nov 1 with CESC) and **include a demo day report in their conference report**. Up to 5% extra points will be given to students who write good reports and whose reports are included in a published overall conference report. 
 
 Also, CESC has poster/lightning talk sessions. Up to 5% extra points will be given to students who participate in lightning talk/poster sessions doing pitching for their class project.
 
