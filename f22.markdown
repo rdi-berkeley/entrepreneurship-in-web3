@@ -11,6 +11,7 @@ permalink: /f22
 - [Zoom link](https://berkeley.zoom.us/j/92377081508): [ <img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/92377081508)
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/22560/discussion/) and [discord](https://discord.gg/X63rBrNtSD).
 - <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b></span>
+- Please always check latest postings from edstem for course work and grading details, as the website might not contain all information.
 
 ## Instructors
 
