@@ -117,11 +117,11 @@ Students will be completing an open-ended web3 product design at the end of the 
 
 ## Meet the Guest Speakers
 
-<iframe id="speakers" src="./f22_speakers" width="100%" height="1750" frameborder=0> </iframe>
+<iframe aria-label="Meet the Guest Speakers" id="speakers" src="./f22_speakers" width="100%" height="1750" frameborder=0> </iframe>
 
 ## Meet the Mentors
 
-<iframe id="mentors" src="./f22_mentors" width="100%" height="960" frameborder=0> </iframe>
+<iframe aria-label="Meet the Mentors" id="mentors" src="./f22_mentors" width="100%" height="960" frameborder=0> </iframe>
 
 ## Course Description
 
