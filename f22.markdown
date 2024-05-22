@@ -89,7 +89,7 @@ This is a variable unit course. The requirements for each number of units are li
 
 The class has an attendance requirement. In addition, 2, 3, and 4-unit students will participate in a group project (4-5 students per group; other group size needs to petition for exception), getting hands-on experience in developing web3 entrepreneurship ideas and defining new web3 products. 
 
-|                                        | 1 unit | 2 units | 3 units                                                     | 4 units                                                             |
+|             Grading Items              | 1 unit | 2 units | 3 units                                                     | 4 units                                                             |
 |----------------------------------------|--------|---------|-------------------------------------------------------------|---------------------------------------------------------------------|
 | Participation                          | 100%   | 10%     | 10%                                                         | 10%                                                                 |
 | Project proposal                       |        | 20%     | 20%                                                         | 20%                                                                 |
