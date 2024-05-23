@@ -98,7 +98,7 @@ The class has an attendance requirement. In addition, 2, 3, and 4-unit students 
 
 ### Participation
 
-The class will be in hybrid format. We expect in-person or online attendance and require each student to ask at least 4 questions to speakers in class over the course of the semester. If you have a time conflict with another class or another reason you cannot attend, please fill out [this form](https://forms.gle/12pqPUUnkDaMFE5g7) to request an exception.
+The class will be in hybrid format. We expect in-person or online attendance and require each student to ask at least 4 questions to speakers in class over the course of the semester. If you have a time conflict with another class or another reason you cannot attend, please fill out <a href="https://forms.gle/12pqPUUnkDaMFE5g7" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">this form</a> to request an exception.
 
 **Students taking 1 unit** should also write an article (at least 2 pages) about the relevant topic covered in this course or your experience of the course posted online, and optionally tweet about the article. The article should be finished by Nov 28.
 For example, a blog article on:
